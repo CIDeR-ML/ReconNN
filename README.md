@@ -15,11 +15,11 @@ An `environment.yml` is provided to help setup the base packages that support th
 
 ### GNN
 
-**WIP**
+Open the `GNN.ipynb`, follow the steps there.
 
 ### CNN
 
-**WIP**
+Open the `CNN.ipynb`, follow the steps there.
 
 ### Sparse CNN
 
