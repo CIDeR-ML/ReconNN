@@ -15,12 +15,16 @@ An `environment.yml` is provided to help setup the base packages that support th
 
 ### GNN
 
-Open the `GNN.ipynb`, follow the steps there.
+Open `GNN.ipynb`, follow the steps there.
 
 ### CNN
 
-Open the `CNN.ipynb`, follow the steps there.
+Open `CNN.ipynb`, follow the steps there.
 
 ### Sparse CNN
 
-Open the `SparseCNN.ipynb`, follow the steps there.
+Open `SparseCNN.ipynb`, follow the steps there.
+
+### Cycle training
+
+Open `GNN-cycle.ipynb`, follow the steps there.
